@@ -9,7 +9,10 @@
 --color-background-butoon: #2196F3;
 --color-background-border: #ececec;
 --color-box-portfolio: #EEEEEE;
-
+}
+li
+{
+    display: inline-block;
 }
 
 body
